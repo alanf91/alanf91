@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Alan, I from Brazil, Enginner Software and I am currently learning about data science
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
